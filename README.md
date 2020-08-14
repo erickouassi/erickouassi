@@ -9,8 +9,8 @@
 
 - Hiding specific stats
 
-![erickouassi's github stats](https://github-readme-stats.vercel.app/api?username=erickouassi&hide=contribs,issues)
+![erickouassi's github stats](https://github-readme-stats.vercel.app/api?username=erickouassi&hide=contribs,issues,stars)
 
 - Showing icons
 
-![erickouassi's github stats](https://github-readme-stats.vercel.app/api?username=erickouassi&hide=issues&show_icons=true)
+![erickouassi's github stats](https://github-readme-stats.vercel.app/api?username=erickouassi&hide=issues,stars&show_icons=true)
